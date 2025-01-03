@@ -8,9 +8,12 @@ DB_PATH = "database/movies.db"
 def scrape_movie_details(movie_url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
+        page = context.new_page()
         page.goto(movie_url)
-        time.sleep(2)  # Wait for the page to load
+        time.sleep(5)
 
         # Scrape movie details
         try:
