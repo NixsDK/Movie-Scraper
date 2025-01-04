@@ -27,14 +27,19 @@ def scrape_movie_details(movie_url):
             genres = ["Unknown Genre"]
 
         try:
-            release_year = page.query_selector("span.sc-8c396aa2-2.itZqyK").inner_text() if page.query_selector("span.sc-8c396aa2-2.itZqyK") else "Unknown Year"
+            release_year_element = page.query_selector("a.ipc-link--baseAlt[href*='/releaseinfo']")
+            release_year = release_year_element.inner_text() if release_year_element else "Unknown Year"
         except:
             release_year = "Unknown Year"
 
         try:
-            rating = page.query_selector("span.sc-7ab21ed2-1.jGRxWM").inner_text() if page.query_selector("span.sc-7ab21ed2-1.jGRxWM") else "Rating not available"
+            rating_element = page.query_selector("span.sc-d541859f-1.imUuxf")
+            rating = rating_element.inner_text() if rating_element else "Rating not available"
         except:
             rating = "Rating not available"
+
+        # Debug print for scraped data
+        print(f"Scraped Data - Title: {title}, Genres: {genres}, Year: {release_year}, Rating: {rating}")
 
         browser.close()
 
