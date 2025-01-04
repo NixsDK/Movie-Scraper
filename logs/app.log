@@ -24,3 +24,33 @@
 2025-01-04 16:32:22,132 - INFO - Application finished.
 2025-01-04 16:32:24,345 - INFO - Application started.
 2025-01-04 16:32:36,434 - INFO - Application finished.
+2025-01-04 17:31:07,098 - root - INFO - SQLite DB migration service initialized
+2025-01-04 17:31:07,098 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 17:31:07,103 - root - INFO - Migrations table created
+2025-01-04 17:32:53,249 - root - INFO - SQLite DB migration service initialized
+2025-01-04 17:32:53,249 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 17:32:53,250 - root - INFO - No new migrations to apply
+2025-01-04 17:33:00,985 - root - INFO - SQLite DB migration service initialized
+2025-01-04 17:33:00,986 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 17:33:00,986 - root - INFO - No new migrations to apply
+2025-01-04 18:00:05,596 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:00:05,597 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:00:05,597 - root - INFO - No new migrations to apply
+2025-01-04 18:00:07,608 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:00:07,608 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:00:07,609 - root - INFO - No new migrations to apply
+2025-01-04 18:03:59,709 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:03:59,710 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:03:59,710 - root - INFO - No new migrations to apply
+2025-01-04 18:06:06,494 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:06:06,494 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:06:06,495 - root - INFO - No new migrations to apply
+2025-01-04 18:08:20,606 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:08:20,606 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:08:20,607 - root - INFO - Applying migration: 0.sql
+2025-01-04 18:08:20,607 - root - INFO - SQL executed successfully
+2025-01-04 18:08:20,613 - root - INFO - Migration '0.sql' recorded in database
+2025-01-04 18:08:20,613 - root - INFO - Applying migration: 1.sql
+2025-01-04 18:08:20,618 - root - INFO - SQL executed successfully
+2025-01-04 18:08:20,623 - root - INFO - Migration '1.sql' recorded in database
+2025-01-04 18:08:20,623 - root - INFO - 2 migrations applied successfully
