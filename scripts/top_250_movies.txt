@@ -1,0 +1,248 @@
+The Shawshank Redemption|Drama|1994|9.3
+The Godfather|Crime, Drama|1972|9.2
+The Dark Knight|Action, Crime, Drama|2008|9.0
+The Godfather Part II|Crime, Drama|1974|9.0
+12 Angry Men|Drama|1957|9.0
+The Lord of the Rings: The Return of the King|Adventure, Drama, Fantasy|2003|9.0
+Schindler's List|Biography, Drama, History|1993|9.0
+Pulp Fiction|Crime, Drama|1994|8.9
+The Lord of the Rings: The Fellowship of the Ring|Adventure, Drama, Fantasy|2001|8.9
+The Good, the Bad and the Ugly|Western|1966|8.8
+Forrest Gump|Drama, Romance|1994|8.8
+The Lord of the Rings: The Two Towers|Adventure, Drama, Fantasy|2002|8.8
+Fight Club|Drama|1999|8.8
+Inception|Action, Adventure, Sci-Fi|2010|8.8
+Star Wars: Episode V - The Empire Strikes Back|Action, Adventure, Sci-Fi|1980|8.7
+The Matrix|Action, Sci-Fi|1999|8.7
+Goodfellas|Biography, Crime, Drama|1990|8.7
+One Flew Over the Cuckoo's Nest|Drama|1975|8.7
+Interstellar|Adventure, Drama, Sci-Fi|2014|8.7
+Se7en|Crime, Drama, Mystery|1995|8.6
+It's a Wonderful Life|Drama, Family, Fantasy|1946|8.6
+Seven Samurai|Action, Adventure, Drama|1954|8.6
+The Silence of the Lambs|Crime, Drama, Thriller|1991|8.6
+Saving Private Ryan|Drama, War|1998|8.6
+City of God|Crime, Drama|2002|8.6
+The Green Mile|Crime, Drama, Fantasy|1999|8.6
+Life Is Beautiful|Comedy, Drama, Romance|1997|8.6
+Terminator 2: Judgment Day|Action, Sci-Fi|1991|8.6
+Star Wars: Episode IV - A New Hope|Action, Adventure, Fantasy|1977|8.6
+Back to the Future|Adventure, Comedy, Sci-Fi|1985|8.5
+Spirited Away|Animation, Adventure, Family|2001|8.5
+The Pianist|Biography, Drama, Music|2002|8.5
+Gladiator|Action, Adventure, Drama|2000|8.5
+Parasite|Drama, Thriller|2019|8.5
+Psycho|Horror, Mystery, Thriller|1960|8.5
+The Lion King|Animation, Adventure, Drama|1994|8.5
+The Departed|Crime, Drama, Thriller|2006|8.5
+Grave of the Fireflies|Animation, Drama, War|1988|8.5
+Whiplash|Drama, Music|2014|8.5
+American History X|Drama|1998|8.5
+Spider-Man: Across the Spider-Verse|Animation, Action, Adventure|2023|8.5
+The Prestige|Drama, Mystery, Sci-Fi|2006|8.5
+Harakiri|Action, Drama|1962|8.6
+Léon: The Professional|Action, Crime, Drama|1994|8.5
+Casablanca|Drama, Romance, War|1942|8.5
+The Usual Suspects|Crime, Drama, Mystery|1995|8.5
+The Intouchables|Biography, Comedy, Drama|2011|8.5
+Cinema Paradiso|Drama, Romance|1988|8.5
+Modern Times|Comedy, Drama, Family|1936|8.5
+Alien|Horror, Sci-Fi|1979|8.5
+Rear Window|Mystery, Thriller|1954|8.5
+Dune: Part Two|Adventure, Drama, Sci-Fi|2024|8.5
+Once Upon a Time in the West|Western|1968|8.5
+Django Unchained|Drama, Western|2012|8.5
+City Lights|Comedy, Drama, Romance|1931|8.5
+Apocalypse Now|Drama, War|1979|8.4
+Memento|Mystery, Thriller|2000|8.4
+WALL·E|Animation, Adventure, Family|2008|8.4
+Raiders of the Lost Ark|Action, Adventure|1981|8.4
+The Lives of Others|Drama, Thriller|2006|8.4
+Avengers: Infinity War|Action, Adventure, Sci-Fi|2018|8.4
+Sunset Boulevard|Drama, Film-Noir|1950|8.4
+Spider-Man: Into the Spider-Verse|Animation, Action, Adventure|2018|8.4
+Paths of Glory|Drama, War|1957|8.4
+Witness for the Prosecution|Crime, Drama, Mystery|1957|8.4
+The Shining|Drama, Horror|1980|8.4
+The Great Dictator|Comedy, Drama|1940|8.4
+Aliens|Action, Adventure, Sci-Fi|1986|8.4
+Inglourious Basterds|Adventure, Drama, War|2009|8.4
+The Dark Knight Rises|Action, Drama|2012|8.4
+Coco|Animation, Adventure, Comedy|2017|8.4
+Amadeus|Biography, Drama, Music|1984|8.4
+Toy Story|Animation, Adventure, Comedy|1995|8.3
+Oldboy|Drama, Thriller|2003|8.3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|Comedy, War|1964|8.3
+Avengers: Endgame|Action, Adventure, Drama|2019|8.4
+American Beauty|Drama|1999|8.3
+Good Will Hunting|Drama, Romance|1997|8.3
+Braveheart|Biography, Drama, History|1995|8.3
+Das Boot|Drama, War|1981|8.4
+Princess Mononoke|Animation, Adventure, Fantasy|1997|8.3
+Your Name.|Animation, Drama, Fantasy|2016|8.4
+High and Low|Crime, Drama, Mystery|1963|8.4
+Joker|Crime, Drama, Thriller|2019|8.3
+3 Idiots|Comedy, Drama|2009|8.4
+Once Upon a Time in America|Crime, Drama|1984|8.3
+Singin' in the Rain|Comedy, Musical, Romance|1952|8.3
+Capernaum|Drama|2018|8.4
+Come and See|Drama, War|1985|8.3
+Requiem for a Dream|Drama|2000|8.3
+Toy Story 3|Animation, Adventure, Comedy|2010|8.3
+Star Wars: Episode VI - Return of the Jedi|Action, Adventure, Fantasy|1983|8.3
+The Hunt|Drama, Thriller|2012|8.3
+Eternal Sunshine of the Spotless Mind|Drama, Romance, Sci-Fi|2004|8.3
+Ikiru|Drama|1952|8.3
+2001: A Space Odyssey|Adventure, Sci-Fi|1968|8.3
+Reservoir Dogs|Crime, Drama, Thriller|1992|8.3
+The Apartment|Comedy, Drama, Romance|1960|8.3
+Lawrence of Arabia|Adventure, Biography, Drama|1962|8.3
+Incendies|Drama, Mystery, War|2010|8.3
+Scarface|Crime, Drama|1983|8.3
+Double Indemnity|Crime, Drama, Film-Noir|1944|8.3
+North by Northwest|Adventure, Mystery, Thriller|1959|8.3
+Citizen Kane|Drama, Mystery|1941|8.3
+Heat|Crime, Drama, Thriller|1995|8.3
+M|Crime, Mystery, Thriller|1931|8.3
+Full Metal Jacket|Drama, War|1987|8.2
+Vertigo|Mystery, Romance, Thriller|1958|8.3
+Up|Animation, Adventure, Comedy|2009|8.3
+Amélie|Comedy, Romance|2001|8.3
+Oppenheimer|Biography, Drama, History|2023|8.3
+A Clockwork Orange|Crime, Sci-Fi|1971|8.2
+To Kill a Mockingbird|Crime, Drama|1962|8.3
+A Separation|Drama|2011|8.3
+Die Hard|Action, Thriller|1988|8.2
+The Sting|Comedy, Crime, Drama|1973|8.3
+Indiana Jones and the Last Crusade|Action, Adventure|1989|8.2
+Like Stars on Earth|Drama, Family|2007|8.3
+Metropolis|Drama, Sci-Fi|1927|8.3
+Snatch|Comedy, Crime|2000|8.2
+1917|Drama, War|2019|8.2
+L.A. Confidential|Crime, Drama, Mystery|1997|8.2
+Bicycle Thieves|Drama|1948|8.3
+Downfall|Biography, Drama, History|2004|8.2
+Dangal|Biography, Drama, Sport|2016|8.3
+Taxi Driver|Crime, Drama|1976|8.2
+Hamilton|Biography, Drama, History|2020|8.3
+The Wolf of Wall Street|Biography, Comedy, Crime|2013|8.2
+Batman Begins|Action, Crime, Drama|2005|8.2
+For a Few Dollars More|Western|1965|8.2
+Green Book|Biography, Comedy, Drama|2018|8.2
+Some Like It Hot|Comedy, Romance|1959|8.2
+The Truman Show|Comedy, Drama|1998|8.2
+Judgment at Nuremberg|Drama, War|1961|8.3
+The Kid|Comedy, Drama|1921|8.2
+The Father|Drama|2020|8.2
+Shutter Island|Mystery, Thriller|2010|8.2
+All About Eve|Drama|1950|8.2
+There Will Be Blood|Drama|2007|8.2
+Jurassic Park|Action, Adventure, Sci-Fi|1993|8.2
+Casino|Crime, Drama|1995|8.2
+The Sixth Sense|Drama, Mystery, Thriller|1999|8.2
+Ran|Action, Drama, War|1985|8.2
+Top Gun: Maverick|Action, Drama|2022|8.2
+No Country for Old Men|Crime, Drama, Thriller|2007|8.2
+Pan's Labyrinth|Drama, Fantasy, War|2006|8.2
+The Thing|Horror, Mystery, Sci-Fi|1982|8.2
+Unforgiven|Drama, Western|1992|8.2
+A Beautiful Mind|Biography, Drama|2001|8.2
+Kill Bill: Vol. 1|Action, Crime, Thriller|2003|8.2
+The Treasure of the Sierra Madre|Adventure, Drama, Western|1948|8.2
+Yojimbo|Action, Adventure, Drama|1961|8.2
+Prisoners|Crime, Drama, Mystery|2013|8.2
+Finding Nemo|Animation, Adventure, Comedy|2003|8.2
+The Great Escape|Adventure, Drama, History|1963|8.2
+Monty Python and the Holy Grail|Adventure, Comedy, Fantasy|1975|8.2
+The Wild Robot|Animation, Sci-Fi|2024|8.2
+Howl's Moving Castle|Animation, Adventure, Family|2004|8.2
+The Elephant Man|Biography, Drama|1980|8.2
+Dial M for Murder|Crime, Mystery, Thriller|1954|8.2
+Rashomon|Crime, Drama, Mystery|1950|8.2
+Gone with the Wind|Drama, Romance, War|1939|8.2
+Chinatown|Drama, Mystery, Thriller|1974|8.1
+The Secret in Their Eyes|Crime, Drama, Mystery|2009|8.2
+Lock, Stock and Two Smoking Barrels|Crime, Thriller|1998|8.1
+V for Vendetta|Action, Drama, Thriller|2005|8.1
+Inside Out|Animation, Adventure, Comedy|2015|8.1
+Klaus|Animation, Adventure, Comedy|2019|8.2
+Three Billboards Outside Ebbing, Missouri|Crime, Drama|2017|8.1
+Raging Bull|Biography, Drama, Sport|1980|8.1
+Trainspotting|Drama|1996|8.1
+The Bridge on the River Kwai|Adventure, Drama, War|1957|8.1
+Catch Me If You Can|Biography, Crime, Drama|2002|8.1
+Fargo|Crime, Drama|1996|8.1
+Warrior|Drama, Sport|2011|8.1
+Harry Potter and the Deathly Hallows: Part 2|Adventure, Family, Fantasy|2011|8.1
+Gran Torino|Drama|2008|8.1
+Spider-Man: No Way Home|Action, Adventure, Sci-Fi|2021|8.2
+Million Dollar Baby|Drama, Sport|2004|8.1
+My Neighbor Totoro|Animation, Family, Fantasy|1988|8.1
+Mad Max: Fury Road|Action, Adventure, Sci-Fi|2015|8.1
+Ben-Hur|Adventure, Biography, Drama|1959|8.1
+Children of Heaven|Drama, Family|1997|8.2
+12 Years a Slave|Biography, Drama, History|2013|8.1
+Barry Lyndon|Adventure, Drama, History|1975|8.1
+Blade Runner|Action, Drama, Sci-Fi|1982|8.1
+Before Sunrise|Drama, Romance|1995|8.1
+The Grand Budapest Hotel|Adventure, Comedy, Crime|2014|8.1
+Hacksaw Ridge|Biography, Drama, History|2016|8.1
+Dead Poets Society|Comedy, Drama|1989|8.1
+Gone Girl|Drama, Mystery, Thriller|2014|8.1
+Memories of Murder|Crime, Drama, Mystery|2003|8.1
+In the Name of the Father|Biography, Crime, Drama|1993|8.1
+Monsters, Inc.|Animation, Adventure, Comedy|2001|8.1
+The Gold Rush|Adventure, Comedy, Drama|1925|8.1
+Ratatouille|Animation, Adventure, Comedy|2007|8.1
+Wild Tales|Comedy, Drama, Thriller|2014|8.1
+Maharaja|Drama|2024|8.4
+How to Train Your Dragon|Animation, Action, Adventure|2010|8.1
+Jaws|Adventure, Thriller|1975|8.1
+The Deer Hunter|Drama, War|1978|8.1
+Sherlock Jr.|Action, Comedy|1924|8.2
+The General|Action, Adventure, Comedy|1926|8.1
+Mary and Max|Animation, Comedy, Drama|2009|8.1
+On the Waterfront|Crime, Drama|1954|8.1
+Ford v Ferrari|Action, Biography, Drama|2019|8.1
+The Wages of Fear|Adventure, Drama, Thriller|1953|8.1
+Mr. Smith Goes to Washington|Comedy, Drama|1939|8.1
+Wild Strawberries|Drama, Romance|1957|8.1
+The Third Man|Film-Noir, Mystery, Thriller|1949|8.1
+Logan|Action, Drama, Sci-Fi|2017|8.1
+Rocky|Drama, Sport|1976|8.1
+Tokyo Story|Drama|1953|8.1
+The Big Lebowski|Comedy, Crime, Sport|1998|8.1
+The Seventh Seal|Drama, Fantasy|1957|8.1
+Spotlight|Biography, Crime, Drama|2015|8.1
+Room|Drama|2015|8.1
+The Terminator|Action, Sci-Fi|1984|8.1
+Hotel Rwanda|Biography, Drama, History|2004|8.1
+Platoon|Drama, War|1986|8.1
+Pirates of the Caribbean: The Curse of the Black Pearl|Action, Adventure, Fantasy|2003|8.1
+La haine|Crime, Drama|1995|8.1
+Jai Bhim|Crime, Drama|2021|8.7
+Before Sunset|Drama, Romance|2004|8.1
+The Best Years of Our Lives|Drama, Romance, War|1946|8.1
+The Passion of Joan of Arc|Biography, Drama, History|1928|8.1
+The Exorcist|Horror|1973|8.1
+The Wizard of Oz|Adventure, Family, Fantasy|1939|8.1
+The Incredibles|Animation, Action, Adventure|2004|8.0
+Rush|Action, Biography, Drama|2013|8.1
+Network|Drama|1976|8.1
+Stand by Me|Adventure, Drama|1986|8.1
+The Sound of Music|Biography, Drama, Family|1965|8.1
+Hachi: A Dog's Tale|Biography, Drama, Family|2009|8.1
+My Father and My Son|Drama, Family|2005|8.2
+The Handmaiden|Drama, Mystery, Romance|2016|8.1
+To Be or Not to Be|Comedy, War|1942|8.1
+A Man Escaped|Biography, Drama|1956|8.2
+The Iron Giant|Animation, Action, Adventure|1999|8.1
+The Battle of Algiers|Drama, History, War|1966|8.1
+Into the Wild|Adventure, Biography, Drama|2007|8.1
+The Grapes of Wrath|Biography, Drama, History|1940|8.1
+Groundhog Day|Comedy, Fantasy, Romance|1993|8.0
+Amores Perros|Drama, Thriller|2000|8.0
+The Help|Drama|2011|8.1
+Rebecca|Drama, Mystery, Romance|1940|8.1
+A Silent Voice: The Movie|Animation, Drama, Romance|2016|8.1
+Cool Hand Luke|Crime, Drama|1967|8.0
