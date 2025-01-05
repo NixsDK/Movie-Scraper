@@ -114,7 +114,7 @@ for migration in migrations_files:
             sql = file.read()
         if sqlite_exec_sql(sql):
             exec_ts = int(time.time())
-            exec_dt = datetime.fromtimestamp(exec_ts, tz=datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+            exec_dt = datetime.fromtimestamp(exec_ts).strftime('%Y-%m-%d %H:%M:%S')
             sqlite_insert_migration(migration, exec_ts, exec_dt)
             migrations_applied += 1
         else:

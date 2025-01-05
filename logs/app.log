@@ -54,3 +54,22 @@
 2025-01-04 18:08:20,618 - root - INFO - SQL executed successfully
 2025-01-04 18:08:20,623 - root - INFO - Migration '1.sql' recorded in database
 2025-01-04 18:08:20,623 - root - INFO - 2 migrations applied successfully
+2025-01-04 18:20:32,176 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:20:32,176 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:20:32,177 - root - INFO - No new migrations to apply
+2025-01-04 18:20:42,641 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:20:42,641 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:20:42,642 - root - INFO - No new migrations to apply
+2025-01-04 18:28:06,852 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:28:06,852 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:28:06,853 - root - INFO - Applying migration: 0.sql
+2025-01-04 18:28:06,853 - root - INFO - SQL executed successfully
+2025-01-04 18:29:15,075 - root - INFO - SQLite DB migration service initialized
+2025-01-04 18:29:15,075 - root - INFO - Connected to SQLite DB at database/movies.db
+2025-01-04 18:29:15,076 - root - INFO - Applying migration: 0.sql
+2025-01-04 18:29:15,077 - root - INFO - SQL executed successfully
+2025-01-04 18:29:15,083 - root - INFO - Migration '0.sql' recorded in database
+2025-01-04 18:29:15,083 - root - INFO - Applying migration: 1.sql
+2025-01-04 18:29:15,088 - root - INFO - SQL executed successfully
+2025-01-04 18:29:15,093 - root - INFO - Migration '1.sql' recorded in database
+2025-01-04 18:29:15,093 - root - INFO - 2 migrations applied successfully
